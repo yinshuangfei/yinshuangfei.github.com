@@ -3,27 +3,16 @@
   
     
     <entry>
-      <title><![CDATA[博客文章语法]]></title>
-      <url>/2017/06/10/%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0/</url>
-      <content type="html"><![CDATA[<p>生成的文件hexo\source_posts\<br><a href="http://ibruce.info/2013/11/26/markdown/" target="_blank" rel="external">markdown简明语法</a></p>
-<p><a href="https://github.com/ppoffice/hexo-theme-hueman" target="_blank" rel="external">主题使用方法</a></p>
-<h1 id="我是静静"><a href="#我是静静" class="headerlink" title="我是静静"></a>我是静静</h1><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><h4 id="Create-a-new-post-1"><a href="#Create-a-new-post-1" class="headerlink" title="Create a new post"></a>Create a new post</h4><h5 id="Create-a-new-post-2"><a href="#Create-a-new-post-2" class="headerlink" title="Create a new post"></a>Create a new post</h5><h6 id="我是静静-1"><a href="#我是静静-1" class="headerlink" title="我是静静"></a>我是静静</h6><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+      <title><![CDATA[网站声明]]></title>
+      <url>/2017/06/10/%E7%BD%91%E7%AB%99%E8%AF%B4%E6%98%8E/</url>
+      <content type="html"><![CDATA[<p><a href="http://ibruce.info/2013/11/26/markdown/" target="_blank" rel="external">markdown简明语法</a><br><a href="https://github.com/ppoffice/hexo-theme-hueman" target="_blank" rel="external">主题使用方法</a></p>
+<h1 id="让我一个人静静"><a href="#让我一个人静静" class="headerlink" title="让我一个人静静"></a>让我一个人静静</h1><h2 id="LOL"><a href="#LOL" class="headerlink" title="LOL"></a>LOL</h2><h3 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ <span class="built_in">echo</span> <span class="string">"I LOVE MY LIFE"</span></div></pre></td></tr></table></figure>
 ]]></content>
       
-        <categories>
-            
-            <category> 一级目录 </category>
-            
-        </categories>
-        
         
         <tags>
             
             <tag> Injury </tag>
-            
-            <tag> Fight </tag>
-            
-            <tag> Shocking </tag>
             
         </tags>
         
