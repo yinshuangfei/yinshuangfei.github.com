@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>殷双飞的博客</title>
+  <subtitle>Be Prode Of Computer Science</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://ysf001.xyz/"/>
+  <updated>2017-06-13T15:47:07.917Z</updated>
+  <id>http://ysf001.xyz/</id>
+  
+  <author>
+    <name>殷双飞</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客文章语法</title>
+    <link href="http://ysf001.xyz/2017/06/10/%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0/"/>
+    <id>http://ysf001.xyz/2017/06/10/新建文章/</id>
+    <published>2017-06-10T05:55:08.000Z</published>
+    <updated>2017-06-13T15:47:07.917Z</updated>
+    
+    <content type="html"><![CDATA[<p>生成的文件hexo\source_posts\<br><a href="http://ibruce.info/2013/11/26/markdown/" target="_blank" rel="external">markdown简明语法</a></p>
+<p><a href="https://github.com/ppoffice/hexo-theme-hueman" target="_blank" rel="external">主题使用方法</a></p>
+<h1 id="我是静静"><a href="#我是静静" class="headerlink" title="我是静静"></a>我是静静</h1><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><h4 id="Create-a-new-post-1"><a href="#Create-a-new-post-1" class="headerlink" title="Create a new post"></a>Create a new post</h4><h5 id="Create-a-new-post-2"><a href="#Create-a-new-post-2" class="headerlink" title="Create a new post"></a>Create a new post</h5><h6 id="我是静静-1"><a href="#我是静静-1" class="headerlink" title="我是静静"></a>我是静静</h6><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;生成的文件hexo\source_posts\&lt;br&gt;&lt;a href=&quot;http://ibruce.info/2013/11/26/markdown/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;markdown简明语法&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a hr
+    
+    </summary>
+    
+      <category term="一级目录" scheme="http://ysf001.xyz/categories/%E4%B8%80%E7%BA%A7%E7%9B%AE%E5%BD%95/"/>
+    
+    
+      <category term="Injury" scheme="http://ysf001.xyz/tags/Injury/"/>
+    
+      <category term="Fight" scheme="http://ysf001.xyz/tags/Fight/"/>
+    
+      <category term="Shocking" scheme="http://ysf001.xyz/tags/Shocking/"/>
+    
+  </entry>
+  
+</feed>
