@@ -3,6 +3,32 @@
   
     
     <entry>
+      <title></title>
+      <url>/2017/06/17/%E5%88%9B%E5%BB%BA%E5%BE%AE%E8%BD%AF%E6%9C%BA%E5%99%A8%E4%BA%BA/</url>
+      <content type="html"><![CDATA[<p>-<br>title: ΢����֮������bot�Ĵ������򴴽�����<br>date: 2017-06-17 13:55:08<br>thumbnail: <a href="http://images2015.cnblogs.com/blog/513999/201609/513999-20160906154440988-1670818657.png" target="_blank" rel="external">http://images2015.cnblogs.com/blog/513999/201609/513999-20160906154440988-1670818657.png</a><br>-<br><a href="https://bysf.azurewebsites.net/" target="_blank" rel="external">ʵ�������˵�ַ</a> ��<a href="https://bysf.azurewebsites.net/" target="_blank" rel="external">https://bysf.azurewebsites.net/</a></p>
+<p>1.����Azure�˺ţ��������ķ��񣩣�����webӦ�ó�����񣬻�ȡ���������ļ��������أ�<br>2.����VS2015��Ŀ��Azure��Ӧ������<br>�½�bot Framework��Ŀ����Ŀ���Ҽ�-&gt;�����������ļ�-&gt;���룬��Ӹղ����ص������ļ���Ȼ������������������ַ<a href="https://bysf.azurewebsites.net/�����������Ӧ�á�" target="_blank" rel="external">https://bysf.azurewebsites.net/�����������Ӧ�á�</a><br>ע��������ɹ���ʱ������������ã�<br>    ����-&gt; ����-&gt; File Push Options -&gt;��ѡ����ѡ��<br>3.����LUIS����Azure�˺ŵ�½<a href="https://www.luis.ai��ע��LUIS�����ˣ��������Key���½�APP����Ӹոյ�Key���Զ������Intent��Entities����ѵ���ͷ������õ�Endpoint" target="_blank" rel="external">https://www.luis.ai��ע��LUIS�����ˣ��������Key���½�APP����Ӹոյ�Key���Զ������Intent��Entities����ѵ���ͷ������õ�Endpoint</a> url��<br>4.����Bot����Azure�˺ŵ�½<a href="https://dev.botframework.com��ע������ˣ����Messaging" target="_blank" rel="external">https://dev.botframework.com��ע������ˣ����Messaging</a> endpointΪAzurewebӦ�ó������ַ��<a href="https://bysf.azurewebsites.net/api/messages�����ô˵�½�˺ŵ���Ϣ�����µ�App" target="_blank" rel="external">https://bysf.azurewebsites.net/api/messages�����ô˵�½�˺ŵ���Ϣ�����µ�App</a> ID �� password ���½���ɺ�����channels��channels�ڿ���Ӳ��Ե�bot.</p>
+<p><a href="http://www.cnblogs.com/rocsheh/p/5846009.html" target="_blank" rel="external">����ģ��������</a><br>��VS2015 bot��Ŀ�е�Web.config�ļ������Bot Framework�л����˵�APP ID��password��<br><a href="http://images2015.cnblogs.com/blog/513999/201609/513999-20160906154440988-1670818657.png" target="_blank" rel="external">http://images2015.cnblogs.com/blog/513999/201609/513999-20160906154440988-1670818657.png</a><br>����վ����ʼҳdefault.htm�����<iframe src="https://webchat.botframework.com/embed/BYSFbot?s=YOUR_SECRET_HERE"></iframe>������ҳ����Ƕ��Web Chat��</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[qt的安装]]></title>
+      <url>/2017/06/10/qt%E5%AE%89%E8%A3%85/</url>
+      <content type="html"><![CDATA[<h1 id="让我一个人静静"><a href="#让我一个人静静" class="headerlink" title="让我一个人静静"></a>让我一个人静静</h1><h2 id="LOL"><a href="#LOL" class="headerlink" title="LOL"></a>LOL</h2><h3 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ <span class="built_in">echo</span> <span class="string">"I LOVE MY LIFE"</span></div></pre></td></tr></table></figure>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> Injury </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[网站声明]]></title>
       <url>/2017/06/10/%E7%BD%91%E7%AB%99%E8%AF%B4%E6%98%8E/</url>
       <content type="html"><![CDATA[<p><a href="http://ibruce.info/2013/11/26/markdown/" target="_blank" rel="external">markdown简明语法</a><br><a href="https://github.com/ppoffice/hexo-theme-hueman" target="_blank" rel="external">主题使用方法</a></p>
