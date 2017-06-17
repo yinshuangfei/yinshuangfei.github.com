@@ -3,22 +3,19 @@
   
     
     <entry>
-      <title><![CDATA[的]]></title>
-      <url>/2017/06/17/%E7%9A%84/</url>
-      <content type="html"><![CDATA[<p>#阿什顿发</p>
-<p>asdfasdfasdfasdf</p>
-<p>阿什顿发发<br>阿什顿发</p>
-]]></content>
-      
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[微软编程之美智能bot的创建精简创建过程]]></title>
       <url>/2017/06/17/%E5%88%9B%E5%BB%BA%E5%BE%AE%E8%BD%AF%E6%9C%BA%E5%99%A8%E4%BA%BA/</url>
       <content type="html"><![CDATA[<p><a href="https://bysf.azurewebsites.net/" target="_blank" rel="external">实例机器人地址</a> ：<a href="https://bysf.azurewebsites.net/" target="_blank" rel="external">https://bysf.azurewebsites.net/</a></p>
-<p>1.创建Azure账号（包含订阅服务），创建web应用程序服务，获取发布配置文件（即下载）<br>2.部署VS2015项目至Azure云应用主机<br>新建bot Framework项目，项目上右键-&gt;发布，配置文件-&gt;导入，添加刚才下载的配置文件，然后点击发布，即可在网址<a href="https://bysf.azurewebsites.net/上阅览部署的应用。" target="_blank" rel="external">https://bysf.azurewebsites.net/上阅览部署的应用。</a><br>注：若发布不成功的时候进行如下设置：<br>    发布-&gt; 设置-&gt; File Push Options -&gt;勾选三个选项<br>3.创建LUIS。用Azure账号登陆<a href="https://www.luis.ai，注册LUIS机器人，导入给的Key，新建APP，添加刚刚的Key。自定义添加Intent和Entities，再训练和发布，得到Endpoint" target="_blank" rel="external">https://www.luis.ai，注册LUIS机器人，导入给的Key，新建APP，添加刚刚的Key。自定义添加Intent和Entities，再训练和发布，得到Endpoint</a> url。<br>4.创建Bot。用Azure账号登陆<a href="https://dev.botframework.com，注册机器人，添加Messaging" target="_blank" rel="external">https://dev.botframework.com，注册机器人，添加Messaging</a> endpoint为Azureweb应用程序的网址（<a href="https://bysf.azurewebsites.net/api/messages）。用此登陆账号的信息生成新的App" target="_blank" rel="external">https://bysf.azurewebsites.net/api/messages）。用此登陆账号的信息生成新的App</a> ID 和 password 。新建完成后可添加channels，channels内可添加测试的bot.</p>
-<p><a href="http://www.cnblogs.com/rocsheh/p/5846009.html" target="_blank" rel="external">各个模块间的链接</a><br>在VS2015 bot项目中的Web.config文件中添加Bot Framework中机器人的APP ID和password；<br><a href="http://images2015.cnblogs.com/blog/513999/201609/513999-20160906154440988-1670818657.png" target="_blank" rel="external">http://images2015.cnblogs.com/blog/513999/201609/513999-20160906154440988-1670818657.png</a><br>打开网站的起始页default.htm中添加<iframe src="https://webchat.botframework.com/embed/BYSFbot?s=YOUR_SECRET_HERE"></iframe>，可在页面中嵌入Web Chat。</p>
+<p>##1.创建Azure账号（包含订阅服务），创建web应用程序服务，获取发布配置文件（即下载）</p>
+<p>##2.部署VS2015项目至Azure云应用主机</p>
+<p>###新建bot Framework项目，项目上右键-&gt;发布，配置文件-&gt;导入，添加刚才下载的配置文件，然后点击发布，即可在网址<a href="https://bysf.azurewebsites.net/上阅览部署的应用。" target="_blank" rel="external">https://bysf.azurewebsites.net/上阅览部署的应用。</a></p>
+<p>###注：若发布不成功的时候进行如下设置：</p>
+<p>###发布-&gt; 设置-&gt; File Push Options -&gt;勾选三个选项</p>
+<p>##3.创建LUIS。用Azure账号登陆<a href="https://www.luis.ai" target="_blank" rel="external">https://www.luis.ai</a> 注册LUIS机器人，导入给的Key，新建APP，添加刚刚的Key。自定义添加Intent和Entities，再训练和发布，得到Endpoint url。</p>
+<p>##4.创建Bot。用Azure账号登陆<a href="https://dev.botframework.com，注册机器人，添加Messaging" target="_blank" rel="external">https://dev.botframework.com，注册机器人，添加Messaging</a> endpoint为Azureweb应用程序的网址（<a href="https://bysf.azurewebsites.net/api/messages）。用此登陆账号的信息生成新的App" target="_blank" rel="external">https://bysf.azurewebsites.net/api/messages）。用此登陆账号的信息生成新的App</a> ID 和 password 。新建完成后可添加channels，channels内可添加测试的bot.</p>
+<p>##5.<a href="http://www.cnblogs.com/rocsheh/p/5846009.html" target="_blank" rel="external">各个模块间的链接</a></p>
+<p>##在VS2015 bot项目中的Web.config文件中添加Bot Framework中机器人的APP ID和password；<a href="http://images2015.cnblogs.com/blog/513999/201609/513999-20160906154440988-1670818657.png" target="_blank" rel="external">http://images2015.cnblogs.com/blog/513999/201609/513999-20160906154440988-1670818657.png</a></p>
+<p>##打开网站的起始页default.htm中添加<iframe src="https://webchat.botframework.com/em##bed/BYSFbot?s=YOUR_SECRET_HERE"></iframe>，可在页面中嵌入Web Chat。</p>
 ]]></content>
       
         
