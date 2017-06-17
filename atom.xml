@@ -38,7 +38,7 @@
     <link href="http://ysf001.xyz/2017/06/17/%E5%88%9B%E5%BB%BA%E5%BE%AE%E8%BD%AF%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
     <id>http://ysf001.xyz/2017/06/17/创建微软机器人/</id>
     <published>2017-06-17T08:38:53.000Z</published>
-    <updated>2017-06-17T09:49:01.055Z</updated>
+    <updated>2017-06-17T11:20:38.931Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://bysf.azurewebsites.net/" target="_blank" rel="external">实例机器人地址</a> ：<a href="https://bysf.azurewebsites.net/" target="_blank" rel="external">https://bysf.azurewebsites.net/</a></p>
 <h2 id="1-Azure"><a href="#1-Azure" class="headerlink" title="1.Azure"></a>1.Azure</h2><p>创建Azure账号（包含订阅服务），创建web应用程序服务，获取发布配置文件（即下载）。</p>
@@ -47,9 +47,10 @@
 <h2 id="4-Bot-Framework"><a href="#4-Bot-Framework" class="headerlink" title="4.Bot Framework"></a>4.Bot Framework</h2><p>创建Bot，即用Azure账号登陆 <a href="https://dev.botframework.com" target="_blank" rel="external">https://dev.botframework.com</a> ，注册机器人，添加Messaging endpoint为Azure web应用程序的网址 <a href="https://bysf.azurewebsites.net/api/messages" target="_blank" rel="external">https://bysf.azurewebsites.net/api/messages</a> 。用此登陆账号的信息生成新的App ID和Password。新建完成后可添加Channels，Channels内可添加测试的bot。</p>
 <h2 id="5-VS集成Bot-APP"><a href="#5-VS集成Bot-APP" class="headerlink" title="5.VS集成Bot APP"></a>5.VS集成Bot APP</h2><p><a href="http://www.cnblogs.com/rocsheh/p/5846009.html" target="_blank" rel="external">将bot集成到VS项目中</a>，可以在VS2015 bot项目中的Web.config文件中添加Bot Framework中机器人的APP ID和Password，如图；<br><img src="http://images2015.cnblogs.com/blog/513999/201609/513999-20160906154440988-1670818657.png" alt="添加APP ID和password"></p>
 <p>打开网站的起始页default.htm中添加<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&lt;iframe src=&apos;https://webchat.botframework.com/em##bed/BYSFbot?s=YOUR_SECRET_HERE&apos;&gt;&lt;/iframe&gt;</div></pre></td></tr></table></figure></p>
-<p>可在页面中嵌入Web Chat。</p>
-<h5 id="6-LUIS集成到VS项目中"><a href="#6-LUIS集成到VS项目中" class="headerlink" title="6.LUIS集成到VS项目中"></a>6.<a href="http://www.cnblogs.com/rocsheh/p/5846009.html" target="_blank" rel="external">LUIS集成到VS项目中</a></h5><p>见链接内容</p>
-<h5 id="7-VS2015本机调试"><a href="#7-VS2015本机调试" class="headerlink" title="7.VS2015本机调试"></a>7.VS2015本机调试</h5><iframe src="https://webchat.botframework.com/embed/BYSFbot?s=W6-euov7xzA.cwA.DXs.qEzIZ0gR3FO-gMUcSaevqmNlHWxetXrFAovMHCux0Ys" style="height: 502px; max-height: 502px;"></iframe>]]></content>
+<p>这时就已经在页面中嵌入了Web Chat。</p>
+<h2 id="6-VS集成LUIS"><a href="#6-VS集成LUIS" class="headerlink" title="6.VS集成LUIS"></a>6.VS集成LUIS</h2><p>见链接内容：<a href="http://www.cnblogs.com/rocsheh/p/5846009.html" target="_blank" rel="external">LUIS集成到VS项目中</a> </p>
+<h2 id="7-VS2015本机调试"><a href="#7-VS2015本机调试" class="headerlink" title="7.VS2015本机调试"></a>7.VS2015本机调试</h2><p>若编译bot项目时，按Ctrl+F5不能出现对应的网页界面，则右键项目属性，改变项目URL的处 <a href="http://localhost:3980/" target="_blank" rel="external">http://localhost:3980/</a> 的端口号，替换一个其他的端口号再点击“创建虚拟目录”即可。</p>
+<h2 id="8-机器人使用界面"><a href="#8-机器人使用界面" class="headerlink" title="8.机器人使用界面"></a>8.机器人使用界面</h2><iframe src="https://webchat.botframework.com/embed/BYSFbot?s=W6-euov7xzA.cwA.DXs.qEzIZ0gR3FO-gMUcSaevqmNlHWxetXrFAovMHCux0Ys" style="height: 502px; max-height: 502px;"></iframe>]]></content>
     
     <summary type="html">
     
