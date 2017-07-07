@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ysf001.xyz/"/>
-  <updated>2017-06-17T15:31:41.179Z</updated>
+  <updated>2017-07-07T15:12:25.765Z</updated>
   <id>http://ysf001.xyz/</id>
   
   <author>
@@ -16,25 +16,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hexo用法链接</title>
-    <link href="http://ysf001.xyz/2017/06/17/Hexo%E7%94%A8%E6%B3%95/"/>
-    <id>http://ysf001.xyz/2017/06/17/Hexo用法/</id>
-    <published>2017-06-17T10:15:37.000Z</published>
-    <updated>2017-06-17T15:31:41.179Z</updated>
+    <title>Memorandum</title>
+    <link href="http://ysf001.xyz/2017/07/07/Memorandum/"/>
+    <id>http://ysf001.xyz/2017/07/07/Memorandum/</id>
+    <published>2017-07-07T15:05:07.000Z</published>
+    <updated>2017-07-07T15:12:25.765Z</updated>
     
-    <content type="html"><![CDATA[<h5 id="主题使用方法"><a href="#主题使用方法" class="headerlink" title="主题使用方法"></a><a href="https://github.com/ppoffice/hexo-theme-hueman" target="_blank" rel="external">主题使用方法</a></h5><h5 id="MarkDown简明语法"><a href="#MarkDown简明语法" class="headerlink" title="MarkDown简明语法"></a><a href="http://ibruce.info/2013/11/26/markdown/" target="_blank" rel="external">MarkDown简明语法</a></h5><h5 id="Hexo官网writing部分"><a href="#Hexo官网writing部分" class="headerlink" title="Hexo官网writing部分"></a><a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Hexo官网writing部分</a></h5><h4 id="代码格式一"><a href="#代码格式一" class="headerlink" title="代码格式一"></a>代码格式一</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">alert(&apos;Hello World!&apos;);</div></pre></td></tr></table></figure>
-<h4 id="代码格式二"><a href="#代码格式二" class="headerlink" title="代码格式二"></a>代码格式二</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">同上，效果一样，写法不一样。</div></pre></td></tr></table></figure>
-<figure class="highlight objc"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">[rectangle setX: <span class="number">10</span> y: <span class="number">10</span> width: <span class="number">20</span> height: <span class="number">20</span>];</div></pre></td></tr></table></figure>
-<blockquote><p>content</p>
-<footer><strong>[author[</strong><cite>source]] [link] [source_link_title]</cite></footer></blockquote>
-<blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p>
-</blockquote>
-<blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
-<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>]]></content>
+    <content type="html"><![CDATA[<p>To Forgetful Me</p>
+]]></content>
     
     <summary type="html">
     
-      &lt;h5 id=&quot;主题使用方法&quot;&gt;&lt;a href=&quot;#主题使用方法&quot; class=&quot;headerlink&quot; title=&quot;主题使用方法&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://github.com/ppoffice/hexo-theme-hueman&quot; target=&quot;_bla
+      &lt;p&gt;To Forgetful Me&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>music</title>
+    <link href="http://ysf001.xyz/2017/07/07/music/"/>
+    <id>http://ysf001.xyz/2017/07/07/music/</id>
+    <published>2017-07-07T14:56:00.000Z</published>
+    <updated>2017-07-07T15:04:30.689Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://img2.niutuku.com/desk/1207/1049/ntk121099.jpg" alt="music"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://img2.niutuku.com/desk/1207/1049/ntk121099.jpg&quot; alt=&quot;music&quot;&gt;&lt;/p&gt;
+
     
     </summary>
     
@@ -43,10 +57,10 @@
   
   <entry>
     <title>微软编程之美智能bot的创建精简创建过程</title>
-    <link href="http://ysf001.xyz/2017/06/17/%E5%88%9B%E5%BB%BA%E5%BE%AE%E8%BD%AF%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
-    <id>http://ysf001.xyz/2017/06/17/创建微软机器人/</id>
-    <published>2017-06-17T08:38:53.000Z</published>
-    <updated>2017-06-17T11:27:36.585Z</updated>
+    <link href="http://ysf001.xyz/2017/06/18/%E5%88%9B%E5%BB%BA%E5%BE%AE%E8%BD%AF%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
+    <id>http://ysf001.xyz/2017/06/18/创建微软机器人/</id>
+    <published>2017-06-18T08:38:53.000Z</published>
+    <updated>2017-07-07T14:31:25.886Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://bysf.azurewebsites.net/" target="_blank" rel="external">实例机器人地址</a>  &lt;— 点它</p>
 <h2 id="1-Azure"><a href="#1-Azure" class="headerlink" title="1.Azure"></a>1.Azure</h2><p>创建Azure账号（包含订阅服务），创建web应用程序服务，获取发布配置文件（即下载）。</p>
@@ -73,21 +87,75 @@
   </entry>
   
   <entry>
+    <title>Hexo用法链接</title>
+    <link href="http://ysf001.xyz/2017/06/17/Hexo%E7%94%A8%E6%B3%95/"/>
+    <id>http://ysf001.xyz/2017/06/17/Hexo用法/</id>
+    <published>2017-06-17T10:15:37.000Z</published>
+    <updated>2017-06-17T16:29:06.839Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="快速链接："><a href="#快速链接：" class="headerlink" title="快速链接："></a>快速链接：</h4><p><a href="https://github.com/ppoffice/hexo-theme-hueman" target="_blank" rel="external">主题使用方法</a><br><a href="http://ibruce.info/2013/11/26/markdown/" target="_blank" rel="external">MarkDown简明语法</a><br><a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Hexo官网writing部分</a></p>
+<h4 id="1-代码格式一："><a href="#1-代码格式一：" class="headerlink" title="1.代码格式一："></a>1.代码格式一：</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">echo &quot;Hello World!&quot;</div></pre></td></tr></table></figure>
+<h4 id="2-代码格式二："><a href="#2-代码格式二：" class="headerlink" title="2.代码格式二："></a>2.代码格式二：</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">同上，效果一样，写法不一样。</div></pre></td></tr></table></figure>
+<h4 id="3-代码格式三："><a href="#3-代码格式三：" class="headerlink" title="3.代码格式三："></a>3.代码格式三：</h4><p><code>效果就是不一样</code></p>
+<p>Block Quote<br>Alias: quote<br><blockquote><p>content</p>
+<footer><strong>[author[</strong><cite>source]] [link] [source_link_title]</cite></footer></blockquote></p>
+<p>No arguments. Plain blockquote.<br><blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p>
+</blockquote></p>
+<p>Quote from a book<br><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
+<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote></p>
+<p>Quote from Twitter<br><blockquote><p>NEW: DevDocs now comes with syntax highlighting. <a href="http://devdocs.io" target="_blank" rel="external">http://devdocs.io</a></p>
+<footer><strong>@DevDocs</strong><cite><a href="https://twitter.com/devdocs/status/356095192085962752" target="_blank" rel="external">twitter.com/devdocs/status/356095192085962752</a></cite></footer></blockquote></p>
+<p>Quote from an article on the web<br><blockquote><p>Every interaction is both precious and an opportunity to delight.</p>
+<footer><strong>Seth Godin</strong><cite><a href="http://sethgodin.typepad.com/seths_blog/2009/07/welcome-to-island-marketing.html" target="_blank" rel="external">Welcome to Island Marketing</a></cite></footer></blockquote></p>
+<p>Code Block<br>Alias: code<br><figure class="highlight plain"><figcaption><span>[title] [] [url] [link text]</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">code snippet</div></pre></td></tr></table></figure></p>
+<p>A plain code block<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">alert(&apos;Hello World!&apos;);</div></pre></td></tr></table></figure></p>
+<p>Specifying the language<br><figure class="highlight objc"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">[rectangle setX: <span class="number">10</span> y: <span class="number">10</span> width: <span class="number">20</span> height: <span class="number">20</span>];</div></pre></td></tr></table></figure></p>
+<p>Adding a caption to the code block<br><figure class="highlight plain"><figcaption><span>Array.map</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">array.map(callback[, thisArg])</div></pre></td></tr></table></figure></p>
+<p>Adding a caption and a URL<br><figure class="highlight plain"><figcaption><span>_.compact</span><a href="http://underscorejs.org/#compact" target="_blank" rel="external">Underscore.js</a></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">_.compact([0, 1, false, 2, &apos;&apos;, 3]);</div><div class="line">=&gt; [1, 2, 3]</div></pre></td></tr></table></figure></p>
+<h1 id="———————"><a href="#———————" class="headerlink" title="———————"></a>———————</h1><p>Backtick Code Block<br>This is identical to using a code block, but instead uses three backticks to delimit the block.<br><code>[language] [title] [url] [link text] code snippet</code></p>
+<p>Pull Quote<br>To add pull quotes to your posts:<br><blockquote class="pullquote [class]"><p>content</p>
+</blockquote></p>
+<p>jsFiddle<br>To embed a jsFiddle snippet:<br><iframe scrolling="no" width="[width]" height="[height]" src="//jsfiddle.net/shorttag/embedded/[tabs]/[skin]" frameborder="0" allowfullscreen></iframe></p>
+<p>Gist<br>To embed a Gist snippet:<br><script src="//gist.github.com/gist_id.js?file=[filename]"></script></p>
+<p>iframe<br>To embed an iframe:<br><iframe src="url" width="[width]" height="[height]" frameborder="0" allowfullscreen></iframe></p>
+<p>Image<br>Inserts an image with specified size.<br><img src="/path/to/image" class="[class names]" title="[width] [height] [title text [alt text]]"></p>
+<p>Link<br>Inserts a link with target=”_blank” attribute.<br><a>text url [external] [title]</a></p>
+<p>Include Code<br>Inserts code snippets in source/downloads/code folder.<br></p>
+<p>Vimeo<br>Inserts a Vimeo video.<br><div class="video-container"><iframe src="//player.vimeo.com/video/video_id" frameborder="0" allowfullscreen></iframe></div></p>
+<p>Include Posts<br>Include links to other posts.<br><br></p>
+<p>Include Assets<br>Include post assets.<br><br><br></p>
+<p>Raw<br>If certain content is causing processing issues in your posts, wrap it with the raw tag to avoid rendering errors.<br>
+content
+</p>
+<p>And you can use them in templates:</p>
+<p>&lt;% for (var link in site.data.menu) { %&gt;<br>  <a href="<%= site.data.menu[link] %>"> &lt;%= link %&gt; </a><br>&lt;% } %&gt;<br>render like this :</p>
+<p><a href="/"> Home </a><br><a href="/gallery/"> Gallery </a><br><a href="/archives/"> Archives </a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;快速链接：&quot;&gt;&lt;a href=&quot;#快速链接：&quot; class=&quot;headerlink&quot; title=&quot;快速链接：&quot;&gt;&lt;/a&gt;快速链接：&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ppoffice/hexo-theme-hueman&quot; ta
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>网站声明</title>
     <link href="http://ysf001.xyz/2017/06/10/%E7%BD%91%E7%AB%99%E8%AF%B4%E6%98%8E/"/>
     <id>http://ysf001.xyz/2017/06/10/网站说明/</id>
     <published>2017-06-10T05:55:08.000Z</published>
-    <updated>2017-06-17T15:34:33.322Z</updated>
+    <updated>2017-07-07T14:43:46.947Z</updated>
     
-    <content type="html"><![CDATA[<p>这是一个网站创建者的雏形之作。本站分享的内容仅用于学习，并无意侵犯任何人的权利。</p>
-<p>但是,</p>
-<h1 id="静静炒鸡美丽可爱！！！"><a href="#静静炒鸡美丽可爱！！！" class="headerlink" title="静静炒鸡美丽可爱！！！"></a>静静炒鸡美丽可爱！！！</h1><h1 id="静静炒鸡美丽可爱！！！-1"><a href="#静静炒鸡美丽可爱！！！-1" class="headerlink" title="静静炒鸡美丽可爱！！！"></a>静静炒鸡美丽可爱！！！</h1><h1 id="静静炒鸡美丽可爱！！！-2"><a href="#静静炒鸡美丽可爱！！！-2" class="headerlink" title="静静炒鸡美丽可爱！！！"></a>静静炒鸡美丽可爱！！！</h1><h1 id="静静炒鸡美丽可爱！！！-3"><a href="#静静炒鸡美丽可爱！！！-3" class="headerlink" title="静静炒鸡美丽可爱！！！"></a>静静炒鸡美丽可爱！！！</h1><h1 id="静静炒鸡美丽可爱！！！-4"><a href="#静静炒鸡美丽可爱！！！-4" class="headerlink" title="静静炒鸡美丽可爱！！！"></a>静静炒鸡美丽可爱！！！</h1><h1 id="静静炒鸡美丽可爱！！！-5"><a href="#静静炒鸡美丽可爱！！！-5" class="headerlink" title="静静炒鸡美丽可爱！！！"></a>静静炒鸡美丽可爱！！！</h1><h1 id="静静炒鸡美丽可爱！！！-6"><a href="#静静炒鸡美丽可爱！！！-6" class="headerlink" title="静静炒鸡美丽可爱！！！"></a>静静炒鸡美丽可爱！！！</h1><h1 id="静静炒鸡美丽可爱！！！-7"><a href="#静静炒鸡美丽可爱！！！-7" class="headerlink" title="静静炒鸡美丽可爱！！！"></a>静静炒鸡美丽可爱！！！</h1><h1 id="静静炒鸡美丽可爱！！！-8"><a href="#静静炒鸡美丽可爱！！！-8" class="headerlink" title="静静炒鸡美丽可爱！！！"></a>静静炒鸡美丽可爱！！！</h1>]]></content>
+    <content type="html"><![CDATA[<p>This is a static website builded for training intelligence.</p>
+<p><strong>一个人来到田纳西</strong><br><strong>毫无疑问</strong><br><em>我做的馅饼<br>是全天下</em><br><em>最好吃的</em></p>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;这是一个网站创建者的雏形之作。本站分享的内容仅用于学习，并无意侵犯任何人的权利。&lt;/p&gt;
-&lt;p&gt;但是,&lt;/p&gt;
-&lt;h1 id=&quot;静静炒鸡美丽可爱！！！&quot;&gt;&lt;a href=&quot;#静静炒鸡美丽可爱！！！&quot; class=&quot;headerlink&quot; title=&quot;静静炒鸡美丽可爱！！！
+      &lt;p&gt;This is a static website builded for training intelligence.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一个人来到田纳西&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;毫无疑问&lt;/strong&gt;&lt;br&gt;&lt;em&gt;我做的馅饼&lt;br&gt;是全天
     
     </summary>
     
